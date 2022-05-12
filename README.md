@@ -1,7 +1,7 @@
 # Macchanger-rs
 ## TLDR
-![Help menu](media/tldr-help.png?raw=true "Help menu")
-![Basic operation](media/tldr.png?raw=true "Basic operation")
+![Help menu](media/tldr.png?raw=true "Help menu")
+![Basic operation](media/tldr-random.png?raw=true "Basic operation")
 ![Error handling](media/tldr-error.png?raw=true "Error handling")
 ![Error handling](media/tldr-error2.png?raw=true "Error handling")
 ![Error handling](media/tldr-error3.png?raw=true "Error handling")
